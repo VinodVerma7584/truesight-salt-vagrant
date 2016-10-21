@@ -1,0 +1,3 @@
+base:
+  '*':
+    - truesight-meter
